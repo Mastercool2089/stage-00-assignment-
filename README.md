@@ -34,3 +34,14 @@ Frontend development involves:
 
 Frontend developers work closely with backend developers, designers, and project managers to create a seamless user experience.
 
+REFERENCES 
+Projects. National Cancer Registry. Carla Taramasco. 
+
+•	National Cancer Act. Library of the National Congress. Law 21.258. Biblioteca del Congreso Nacional de Chile
+
+•	Plan Nacional de Cáncer 2018-2028 (National Cancer Plan 2018-2028) Ministerio de Salud.
+
+•	Registro Nacional de Cáncer: en qué consiste la nueva plataforma para registrar a pacientes con la enfermedad a nivel nacional (National Cancer Registry: what is the new platform to register patients with the disease nationwide) El Mostrador. 
+
+•	Cancer: Facts and figures. World Health Organization. 
+
