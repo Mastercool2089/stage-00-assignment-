@@ -35,6 +35,7 @@ Frontend development involves:
 Frontend developers work closely with backend developers, designers, and project managers to create a seamless user experience.
 
 REFERENCES 
+
 Projects. National Cancer Registry. Carla Taramasco. 
 
 •	National Cancer Act. Library of the National Congress. Law 21.258. Biblioteca del Congreso Nacional de Chile
