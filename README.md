@@ -12,7 +12,11 @@ Frontend development, also known as Client-side development,  is the method of c
 
 A frontend development is responsible for enhancing and designing a world-class web application and healthcare portal for storing data as well as booking appointments.
 
-During the year 2020, the World Health Organization recommends the use of patient-reported experience measures and patient-reported outcome measures to ensure care processes. New technologies such as mobile applications was used to monitor patients adverse effects and doubts during treatment. WHO objectives was to present a qualitative case study documenting the process of identifying the information needs to breast cancer patients and healthcare professionals during the treatment process.
+During the year 2020, the World Health Organization recommends the use of patient-reported experience measures and patient-reported outcome measures to ensure care processes. New technologies such as mobile applications was used to monitor patients adverse effects and doubts during treatment. WHO objectives was to present a qualitative case study documenting the process of identifying the information needs to breast cancer patients and healthcare professionals during the treatment process.(J Med Internet Res.  2023; 25: e45968.  
+
+Published online 2023 Nov 27.)
+
+
 
 Frontend development requires the use of various technologies to create responsive, interactive, and engaging web pages, including:
 
