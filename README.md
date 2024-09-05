@@ -38,9 +38,14 @@ Frontend developers work closely with backend developers, designers, and project
 REFERENCES 
 
 •100. Hull R, Mbele M, Makhafola T, et al. Cervical cancer in low and middle‐income countries (review).
+
 •Hay Burgess DC, Wasserman J, Dahl CA. Global health diagnostics. Nature.
+
 • Imran A, Qamar HY, Ali Q, et al. Role of molecular biology in cancer treatment: a review article.
+
 • Buzdin A, Skvortsova II, Li X, Wang Y. Editorial: next generation sequencing based diagnostic approaches in clinical oncology.
+
 •(National Cancer Registry: what is the new platform to register patients with the disease nationwide) El Mostrador. [2022-09-07].
+
 •Cancer: Facts and figures. World Health Organization. [2022-09-07].
 
