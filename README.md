@@ -6,14 +6,13 @@ FRONTEND DEVELOPMENT
 
 The remarkable development of technology has brought about great changes in all fields .In consideration the rapid spreading outbreak of the corona Virus in 2019 has shifted all activities to move online including healthcare. Dealing with a critical situation during the epidemic along with facing with an enormous number of patients and having to distance between individuals,  the presence of an application or web app was extremely necessary for clinics and hospitals.  
 
-During the period of the outbreak,  there was a need for a medical application that is used to manage patients remotely and ensures the convenience for patients and medical staff. Therefore,  this thesis focus on frontend development (i.e building a web application) to bring medical staff and patients a great experience in treatment  by storing and tracking medical examination results.
+During the period of the outbreak,  there was a need for a medical application that is used to manage patients remotely and ensures the convenience for patients and medical staff. Therefore,  this thesis focus on frontend development (i.e building a web application) to bring medical staff and patients a great experience in treatment  by storing and tracking medical examination results.(Authors:  Huynh Quang Phuoc Thinh   Issue Date:  2022 )
 
 Frontend development, also known as Client-side development,  is the method of creating the user interface and experience of a website or web application using framework, programming language and tools. It priorities creating the visual and interactive aspects of a website that users interact with directly. 
 
 A frontend development is responsible for enhancing and designing a world-class web application and healthcare portal for storing data as well as booking appointments.
 
 During the year 2020, the World Health Organization recommends the use of patient-reported experience measures and patient-reported outcome measures to ensure care processes. New technologies such as mobile applications was used to monitor patients adverse effects and doubts during treatment. WHO objectives was to present a qualitative case study documenting the process of identifying the information needs to breast cancer patients and healthcare professionals during the treatment process.(J Med Internet Res.  2023; 25: e45968.  
-
 Published online 2023 Nov 27.)
 
 
@@ -41,15 +40,15 @@ Frontend developers work closely with backend developers, designers, and project
 
 REFERENCES 
 
-•100. Hull R, Mbele M, Makhafola T, et al. Cervical cancer in low and middle‐income countries (review).
+1•100. Hull R, Mbele M, Makhafola T, et al. Cervical cancer in low and middle‐income countries (review).
 
-•Hay Burgess DC, Wasserman J, Dahl CA. Global health diagnostics. Nature.
+2•Hay Burgess DC, Wasserman J, Dahl CA. Global health diagnostics. Nature.
 
-• Imran A, Qamar HY, Ali Q, et al. Role of molecular biology in cancer treatment: a review article.
+3• Imran A, Qamar HY, Ali Q, et al. Role of molecular biology in cancer treatment: a review article.
 
-• Buzdin A, Skvortsova II, Li X, Wang Y. Editorial: next generation sequencing based diagnostic approaches in clinical oncology.
+4• Buzdin A, Skvortsova II, Li X, Wang Y. Editorial: next generation sequencing based diagnostic approaches in clinical oncology.
 
-•(National Cancer Registry: what is the new platform to register patients with the disease nationwide) El Mostrador. [2022-09-07].
+5•(National Cancer Registry: what is the new platform to register patients with the disease nationwide) El Mostrador. [2022-09-07].
 
-•Cancer: Facts and figures. World Health Organization. [2022-09-07].
+6•Cancer: Facts and figures. World Health Organization. [2022-09-07].
 
